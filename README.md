@@ -10,7 +10,7 @@ Fill In Blanks Test Paper Maker (填空试卷生成器).
 有的空答案贼短，给的空贼长，  
 这会误导我们的啊啊啊！  
 所以，我们要做这一个项目给老师使用。
-### 这个玩意下载链接在哪？
+### 这个玩意的下载链接在哪？
 去 [官网](https://project-raygroup.rth.app/fib_maker) 下载。
 ### 如何使用这个玩意？
 使用手册在 [这里](https://project-raygroup.rth.app/fib_maker/guide) 。
